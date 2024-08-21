@@ -1,0 +1,21 @@
+# Ignore all files with .log extension
+*.log
+
+# Ignore the .idea/ directory (used by JetBrains IDEs like PyCharm)
+.idea/
+
+# Ignore node_modules/ directory (for Node.js projects)
+node_modules/
+
+# Ignore compiled Python files
+__pycache__/
+*.py[cod]
+
+# Ignore environment variables file
+.env
+
+# Ignore all files in a specific directory
+/secrets/*
+
+# Ignore everything except a specific file
+!important_file.txt
