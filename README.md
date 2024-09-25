@@ -4,6 +4,7 @@
 
 Welcome to my **Machine Learning Zoomcamp** self-study project, inspired by the [DataTalks.Club](https://datatalks.club/) curriculum. This repository documents my journey through various machine learning concepts, techniques, and hands-on projects aimed at building a strong foundation in machine learning.
 
+Github course: https://github.com/DataTalksClub/machine-learning-zoomcamp/tree/master
 ## Table of Contents
 
 - [Introduction](#introduction)
